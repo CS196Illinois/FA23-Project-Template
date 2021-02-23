@@ -1,10 +1,10 @@
-# Group 7
+# Group TEAM_NUMBER
 Group Name: TEAM_NAME
 
-[MVP Link](https://docs.google.com/document/d/1WG2lb3es7Ak16TpdynTLyOATXpLqlkP6FfUrsMbtkdw/edit?usp=sharing)
+[MVP Link](http://cs196.cs.illinois.edu)
 
-Team Members: qinghao2, fengshi2, linzhet2, xiong18
+Team Members: STUDENTS_NETIDS
 
-Project Manager: shreyab4, itaraf2
+Project Manager: PM_NETID
 
 Project Description: 
