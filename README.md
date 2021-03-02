@@ -1,10 +1,8 @@
-# Group 5
-Group Name: Dazzling Dolphins
+# Group TEAM_NUMBER
+Group Name: TEAM_NAME
 
 [MVP Link](http://cs196.cs.illinois.edu)
 
-Team Members: zhaoqix2, rohanhh2, shreyap7, mschulz5
+Team Members: STUDENTS_NETIDS
 
-Project Manager: yiliang6, meghanr6
-
-Project Description: 
+Project Manager: PM_NETID
